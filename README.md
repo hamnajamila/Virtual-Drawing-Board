@@ -4,6 +4,14 @@ This project transforms your webcam into an interactive drawing canvas, allowing
 
 ---
 
+
+## Dataset Used:
+
+
+I used sign_mnist_test.csv and sign_mnist_train.csv, You can easily download the data from Kaggle.
+
+---
+
 ## Features
 
 - **Hand Gesture Control**: Use your hand to control a virtual cursor.
